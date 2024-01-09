@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0eacc2fa93233110dc9e7b732bba1057" label="Table One" max_length="40" name="x_58872_needit_table_one" type="collection">
-        <element label="*TC 01" max_length="40" name="tc_01" type="string"/>
+        <element label="New Field" max_length="40" name="new_field" type="string"/>
+        <element default="200" label="*TC 01" max_length="40" name="tc_01" type="string"/>
         <element default="100" label="TC 02" max_length="40" name="tc_02" type="string"/>
     </element>
 </database>

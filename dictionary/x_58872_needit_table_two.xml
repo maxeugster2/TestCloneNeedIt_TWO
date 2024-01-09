@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="aadc0afa93233110dc9e7b732bba103b" label="Table Two" max_length="40" name="x_58872_needit_table_two" type="collection"/>
+    <element db_object_id="aadc0afa93233110dc9e7b732bba103b" label="Table Two" max_length="40" name="x_58872_needit_table_two" type="collection">
+        <element label="New Field" max_length="40" name="new_field" type="string"/>
+    </element>
 </database>
